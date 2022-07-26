@@ -16,13 +16,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    //some code
-    //
-    //
-    //
-    //
-    //aaaaaaaaaaaaaaaa
-    //ercrcvdfv
-    //лрлгплгплгплгелгее
+    //фффффф
+    //ыыыыыыы
+    //ааааааая
 }
 
